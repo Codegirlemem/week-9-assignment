@@ -212,8 +212,9 @@
       incremental or decremental code to enable the loop stop. All the above are
       enclosed within parenthesis after the for keyword
     </p>
-
-    <h3>While loops</h3>
+  </li>
+</ul>
+  <h3>While loops</h3>
     <p>
       Unlike the for loop, the while loop initial value is stated before the
       while loop is statement is written. The while keyword only holds the
@@ -236,9 +237,6 @@
       where an action needs to be executed atleast once regardless of if
       conditions are met or not.
     </p>
-
-  </li>
-</ul>
 
 <p>
   It should be noted that Javascript can execute statements based on mutiple
