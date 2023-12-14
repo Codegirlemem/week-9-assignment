@@ -210,33 +210,34 @@
       start of the loop. <br />
       It also has the condition for which the loop will keep running and the
       incremental or decremental code to enable the loop stop. All the above are
-      enclosed within parenthesis after the for keyword
+      enclosed within parenthesis after the for keyword.
     </p>
-  </li>
-</ul>
-  <h3>While loops</h3>
-    <p>
+<h3>While loops</h3>
+    
+  <p>
       Unlike the for loop, the while loop initial value is stated before the
       while loop is statement is written. The while keyword only holds the
       condition for the loop to keep running. This can cause the loop to run
       infinitelyif not exit condition is added.
-    </p>
-    <p>
+  </p>
+  <p>
       The exit condition is added inside the curly brackets after the execution
       code.
-    </p>
-
-    <h3>
+  </p>
+   <h3>
       There also exist a do..while loop which is slightly similar to the while
       loop.
     </h3>
-    <p>
-      Unlike the while and for loops which only runs when the conditions
-      are true, the do/while loop will run once before checking if the
+    <p>Unlike the while and for loops which only runs when the conditions
+      are true, the do..while loop will run once before checking if the
       conditions for the loop is being met as such this is useful for statements
       where an action needs to be executed atleast once regardless of if
-      conditions are met or not.
-    </p>
+      conditions are met or not.</p>
+  
+    
+   
+  </li>
+</ul>
 
 <p>
   It should be noted that Javascript can execute statements based on mutiple
